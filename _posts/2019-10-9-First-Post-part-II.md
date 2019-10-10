@@ -2,6 +2,7 @@
 layout: post
 categories: posts
 title: First Post part II
+subtitle: 简记搭建博客的过程
 tags: [daily , technology]
 date-string: October 9, 2019
 
