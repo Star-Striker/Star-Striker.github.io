@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: blog杂记
+title: Winter's Gate
 subtitle: 顺便试试发图
 tags: [daily]
 date-string: October 10, 2019
