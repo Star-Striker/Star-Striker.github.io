@@ -2,6 +2,7 @@
 layout: post
 categories: posts
 title: Fisrt sklearn
+subtitle: 非常简单的二元分类
 tags: [technology,python]
 date-string: OCTOBER 17, 2019
 ---
