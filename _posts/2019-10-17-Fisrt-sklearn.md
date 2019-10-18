@@ -42,6 +42,27 @@ label=lr.predict(testX)
 print("predicted label = ",label)
 prob = lr.predict_proba(testX)
 print("probability = ",prob)
+
+theta_0=lr.intercept_
+theta_1=lr.coef_[0][0]
+theta_2=lr.coef_[0][1]
+print("theta_0 = ",theta_0)
+print("theta_1 = ",theta_1)
+print("theta_2 = ",theta_2)
+
+testX=[[28,8]]
+ratio=prob[0][1]/prob[0][0]
+
+testX=[[28,9]]
+prob_new=lr.predict_proba(testX)
+ratio_new=prob[0][1]/prob[0][0]
+
+ratio_of_ratio=ratio_new/ratio
+print("ratio = ",ratio_of_ratio)
+
+import math
+theta_2_e=math.exp(theta_2)
+print("theta 2 e = ",theta_2_e)
 ```
 
 运行结果：
@@ -49,5 +70,10 @@ print("probability = ",prob)
 ```
 predicted label =  [1]
 probability =  [[0.14694811 0.85305189]]
+theta_0 =  [-0.04131838]
+theta_1 =  -0.1973000136829152
+theta_2 =  0.915557452347983
+ratio =  1.0
+theta 2 e =  2.4981674731438948
 ```
 
