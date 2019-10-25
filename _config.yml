@@ -1,5 +1,5 @@
 title:            Winter's Gate
-description:      暂时还没有想好介绍，就这样吧。
+description:      Ice melting into the sea.
 copyright:        Star Striker
 url:              "https://star-striker.github.io/"# add your custom site url (format: https://example.com)
 
@@ -20,7 +20,7 @@ sass:
 permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 10
 
 #kramdown:
 #  input: GFM
