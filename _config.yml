@@ -20,7 +20,7 @@ sass:
 permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
-paginate: 10
+paginate: 5
 
 #kramdown:
 #  input: GFM
