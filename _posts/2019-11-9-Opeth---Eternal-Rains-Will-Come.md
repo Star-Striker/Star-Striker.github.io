@@ -2,12 +2,12 @@
 layout: post
 categories: posts
 title: Opeth - Eternal Rains Will Come
+subtitle: 普通歌词摘抄
 tags: [Lyrics]
 date-string: NOVEMBER 9, 2019
 ---
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/eternal-rains-will-come/881685468?i=881685471"></iframe>
-
 
 
 Eternal rains will come
