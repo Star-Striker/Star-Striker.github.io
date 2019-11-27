@@ -11,7 +11,11 @@ title: About
 </p>
 
 <p>
-    <a href="http://wpa.qq.com/msgrd?v=3&uin=2587063514&site=qq&menu=yes">和博主说话点这里</a>
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=2587063514&site=qq&menu=yes">QQ</a>
+</p>
+
+<p>
+    <a href="https://github.com/Star-Striker">Github</a>
 </p>
 
 <p>
