@@ -56,3 +56,5 @@ exclude:
   - package.json
   - spec
   - tmp
+gems:
+  - jekyll-sitemap
