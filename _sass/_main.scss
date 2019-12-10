@@ -48,7 +48,7 @@ figcaption > code,
 td > code {
     margin: 0 2px;
 	padding: 0 5px;
-    font-size: 12px;
+    font-size: 15px;
 	line-height: 1.5;
     border: 1px solid lighten(#000, 90);
 	background-color: lighten(#000, 95);
@@ -56,12 +56,12 @@ td > code {
 }
 
 pre {
-    font-size: 12px;
+    font-size: 15px;
 	line-height: 1.5;
 	overflow-x: auto;
 
 	&::-webkit-scrollbar {
-		height: 12px;
+		height: 15px;
 		background-color: #34362e;
 		border-radius: 0 0 4px 4px;
 	}
