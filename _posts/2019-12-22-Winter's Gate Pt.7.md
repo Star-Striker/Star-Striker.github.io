@@ -1,14 +1,13 @@
 ---
 layout: posts
 categories: posts
-title: WInter's Gate Pt.7
+title: Winter's Gate Pt.7
 subtitle: 歌词摘抄
-date-string: DECEMBER 22, 2019
 tags: [lyrics]
+date-string: DECEMBER 22, 2019
 ---
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/winters-gate-pt-7/1145037807?i=1145038008"></iframe>
-
 
 
 The flames is weak and frail
